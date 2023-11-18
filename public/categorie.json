@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "apple",
+        "image": "https://i.ibb.co/SR2xXNW/apple-logo-free-png.webp"
+      },
+      {
+        "id": 2,
+        "name": "samsung",
+        "image": "https://i.ibb.co/SVgcRX5/images.png"
+      },
+      {
+        "id": 3,
+        "name": "sony",
+        "image": "https://i.ibb.co/2ZM6CLH/sony-logo.png"
+      },
+      {
+        "id": 4,
+        "name": "google",
+        "image": "https://i.ibb.co/tqNqnFd/66903-google-pay-gboard-platform-logo-cloud.png"
+      },
+      {
+        "id": 5,
+        "name": "intel",
+        "image": "https://i.ibb.co/MnKfGfV/58568d224f6ae202fedf2720.png"
+      },
+      {
+        "id": 6,
+        "name": "microsoft",
+        "image": "https://i.ibb.co/LrwLPWW/new-microsoft-logo-SIZED-SQUARE-300x297-300x297.jpg"
+      }
+]
