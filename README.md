@@ -1,5 +1,6 @@
 ## Tech Guru E-commerce Website live link: https://brandshop-client-side-16c8e.web.app/
 
+## Server Side Link: https://github.com/jannat-jui/tech-guru-brandshop-server
 Welcome to Tech Guru, an e-commerce platform for electronic products.
 
 ## Table of Contents
